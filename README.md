@@ -12,7 +12,7 @@ Descripción:
 Nuestro proyecto consiste en mejorar la página web de turismo de nuestro taller de artesanía nazarí, con el objetivo de ofrecer una experiencia completa a nuestros visitantes. Para ello, nuestra propuesta consiste en implementar un catálogo más detallado de nuestros productos e información de nuestros artesanos junto con métodos para contactar con estos, con el fin de conseguir la asistencia deseada y fomentar la conexión entre
 nuestros visitantes y nuestro trabajo artesanal intetando alcanzar un mayor grado de satisfacción de estos y ampliar el número de usuarios cuyas necesidades se abarcan.
 
-[](P3/artesaniaLogo.png)
+![](P3/artesaniaLogo.png)
 
 Miembros
  * Jesús Marín Almansa
@@ -35,13 +35,17 @@ Hemos decidido comparar las 3 webs asignadas en el guión de prácticas ya que t
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 Hemos inventado dos personajes imaginarios provenientes de distintos contextos. Ambos tienen que utilizar la web en cuestión, pero cada uno de ellos posee necesidades y requisitos particulares.
+### Jorge
 ![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/Jorge-1.png)
+### María
 ![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/María-1.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+### Jorge
 ![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/Jorge-2.png)
+### María
 ![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/María-2.png)
 
 Jorge busca información para visitar Granada, mientras que un profesora abusca organizar una excursión educativa de bajo costo. Estas dos experiencias de usuario son bastante habituales, ya que representan dos perfiles comunes al utilizar una aplicación para organizar una visita o excursión.
@@ -57,13 +61,13 @@ En general, el sitio web tiene algunos fallos en la experiencia de navegación. 
 ## Paso 2. UX Design
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a POV
 ----
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
+[Diagrama POV](P2)
  Interesante | Críticas
 | ------------- | -------
   Preguntas | Nuevas ideas
