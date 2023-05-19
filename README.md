@@ -31,22 +31,32 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis
 
-![Método UX](P1/2. Competitive analysis/Competitor Analysis-1.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
+> Hemos decidido comparar las 3 webs asignadas en el guión de prácticas ya que todas tienen el mismo objetivo de facilitar rutas turí sticas y es de utilidad comprobar los puntos débiles y fuertes de cada una para ver que podríamos mejorar en cada una de ellas. * A cual q uier tipo de usuario (personas con discapacidad auditiva...)
 
-![Método UX](P/Persona.png) 1.bc Persona y User Journey Map
+
+![Método UX](img/Persona.png) 1.b Persona
 -----
+> Hemos inventado dos personajes imaginarios provenientes de distintos contextos. Ambos tienen que utilizar la web en cuestión, pero cada uno de ellos posee necesidades y requisitos particulares.
+![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/Jorge-1.png)
+![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/María-1.png)
 
-
- 1.d Usability Review
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf)
->>> - Valoración final (numérica):
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/Jorge-2.png)
+![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/María-2.png)
+
+> Jorge busca información para visitar Granada, mientras que un profesora abusca organizar una excursión educativa de bajo costo. Estas dos experiencias de usuario son bastante habituales, ya que representan dos perfiles comunes al utilizar una aplicación para organizar una visita o excursión.
+
+![Método UX](img/usabilityReview.png) 1.d Usability Review
+----
+
+>>> - Enlace al documento: [click aquí](P1/5.%20Usability%20Review%20y%20briefing/Usability-review.xlsx)
+> - Valoración final (numérica): 67 puntos
+> En general, el sitio web tiene algunos fallos en la experiencia de navegación. También presenta problemas de usabilidad que afectan a la efectividad y satisfacción de los usuarios. Algunos de estos problemas son: falta de adaptación al tamaño de pantalla, diseño poco atractivo y confuso, navegación poco intuitiva. Estos problemas podrían solucionarse aplicando los principios y las mejores prácticas del diseño UX/UI. Además, los contenidos multimedia no están adaptados para la navegación en dispositivos de escritorio.
 
 
 ## Paso 2. UX Design
