@@ -84,9 +84,28 @@ Hemos pensado en realizar una conexión directa con artesanos locales, informaci
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
 
-![](P2/4.%20Mapa%20de%20sitio%20y%20etiquetado/Labelling-1.png)
-![](P2/4.%20Mapa%20de%20sitio%20y%20etiquetado/Labelling-2.png)
-![](P2/4.%20Mapa%20de%20sitio%20y%20etiquetado/Labelling-1.png)
+|Tareas / Perfiles de Usuario|Turismo General|Visitas Grupales (como Colegios)|Business to Business|Locales(otros)|
+|:----|:----|:----|:----|:----|
+|Buscar información sobre los productos disponibles|Media|Media|Alta|Media|
+|Consultar información sobre los artesanos|Baja|Alta|Alta|Baja|
+|Ver precios de los productos|Media|Media|Alta|Media|
+|Realizar una reserva para una visita al taller|Alta|Alta|Media|Media|
+|Contactar con los artesanos para hacer preguntas o solicitar información adicional|Baja|Media|Alta|Baja|
+|Conocer la ubicación del taller y la forma de llegar|Alta|Alta|Alta|Alta|
+|Ver fotos y vídeos de los productos y el taller|Media|Alta|Alta|Media|
+|Leer comentarios y reseñas de otros clientes|Alta|Alta|Alta|Media|
+|Dejar comentarios y reseñas sobre la experiencia de productos y el taller|Alta|Alta|Alta|Media|
+|Conocer los horarios de apertura y cierre|Alta|Alta|Alta|Alta|
+|Descargar catálogos o folletos de los productos|Media|Media|Alta|Baja|
+|Conocer las políticas de devolución y garantía|Media|Baja|Alta|Baja|
+|Conocer la historia y la filosofía del taller|Media|Alta|Baja|Baja|
+|Realizar compras en línea|Baja|Media|Alta|Baja|
+|Ver información sobre eventos y talleres especiales |Baja|Alta|Baja|Media|
+|Hacer una reserva para un evento o taller especial |Baja|Alta|Baja|Media|
+|Conocer las opciones de transporte para llegar al taller|Alta|Media|Alta|Baja|
+|Conocer los lugares turísticos cercanos al taller|Alta|Alta|Baja|Baja|
+|Conocer los lugares de ocio cercanos al taller|Alta|Alta|Baja|Baja|
+
 ![](P2/4.%20Mapa%20de%20sitio%20y%20etiquetado/sitemap-1.png)
 
 
