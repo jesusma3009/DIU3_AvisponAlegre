@@ -5,19 +5,14 @@ Grupo: DIU1_01AABB.  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto:
-> Rediseño de la web artesania nazarie
+Rediseño de la web artesania nazarie
 
 Descripción:
 
->  Nuestro proyecto consiste en mejorar la página web de turismo de nuestro taller de artesanía nazarí, con el
-objetivo de ofrecer una experiencia completa a nuestros visitantes. Para ello, nuestra propuesta consiste en
-implementar un catálogo más detallado de nuestros productos e información de nuestros artesanos junto con
-métodos para contactar con estos, con el fin de conseguir la asistencia deseada y fomentar la conexión entre
-nuestros visitantes y nuestro trabajo artesanal intetando alcanzar un mayor grado de satisfacción de estos y
-ampliar el número de usuarios cuyas necesidades se abarcan.
+Nuestro proyecto consiste en mejorar la página web de turismo de nuestro taller de artesanía nazarí, con el objetivo de ofrecer una experiencia completa a nuestros visitantes. Para ello, nuestra propuesta consiste en implementar un catálogo más detallado de nuestros productos e información de nuestros artesanos junto con métodos para contactar con estos, con el fin de conseguir la asistencia deseada y fomentar la conexión entre
+nuestros visitantes y nuestro trabajo artesanal intetando alcanzar un mayor grado de satisfacción de estos y ampliar el número de usuarios cuyas necesidades se abarcan.
 
-Logotipo:
-> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+[](P3/artesaniaLogo.png)
 
 Miembros
  * Jesús Marín Almansa
@@ -34,12 +29,12 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-> Hemos decidido comparar las 3 webs asignadas en el guión de prácticas ya que todas tienen el mismo objetivo de facilitar rutas turí sticas y es de utilidad comprobar los puntos débiles y fuertes de cada una para ver que podríamos mejorar en cada una de ellas. * A cual q uier tipo de usuario (personas con discapacidad auditiva...)
+Hemos decidido comparar las 3 webs asignadas en el guión de prácticas ya que todas tienen el mismo objetivo de facilitar rutas turí sticas y es de utilidad comprobar los puntos débiles y fuertes de cada una para ver que podríamos mejorar en cada una de ellas. * A cual q uier tipo de usuario (personas con discapacidad auditiva...)
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-> Hemos inventado dos personajes imaginarios provenientes de distintos contextos. Ambos tienen que utilizar la web en cuestión, pero cada uno de ellos posee necesidades y requisitos particulares.
+Hemos inventado dos personajes imaginarios provenientes de distintos contextos. Ambos tienen que utilizar la web en cuestión, pero cada uno de ellos posee necesidades y requisitos particulares.
 ![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/Jorge-1.png)
 ![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/María-1.png)
 
@@ -49,14 +44,14 @@ Miembros
 ![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/Jorge-2.png)
 ![](P1/3%20y%204.%20Personas%20y%20Journey%20Map/María-2.png)
 
-> Jorge busca información para visitar Granada, mientras que un profesora abusca organizar una excursión educativa de bajo costo. Estas dos experiencias de usuario son bastante habituales, ya que representan dos perfiles comunes al utilizar una aplicación para organizar una visita o excursión.
+Jorge busca información para visitar Granada, mientras que un profesora abusca organizar una excursión educativa de bajo costo. Estas dos experiencias de usuario son bastante habituales, ya que representan dos perfiles comunes al utilizar una aplicación para organizar una visita o excursión.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
->>> - Enlace al documento: [click aquí](P1/5.%20Usability%20Review%20y%20briefing/Usability-review.xlsx)
-> - Valoración final (numérica): 67 puntos
-> En general, el sitio web tiene algunos fallos en la experiencia de navegación. También presenta problemas de usabilidad que afectan a la efectividad y satisfacción de los usuarios. Algunos de estos problemas son: falta de adaptación al tamaño de pantalla, diseño poco atractivo y confuso, navegación poco intuitiva. Estos problemas podrían solucionarse aplicando los principios y las mejores prácticas del diseño UX/UI. Además, los contenidos multimedia no están adaptados para la navegación en dispositivos de escritorio.
+- Enlace al documento: [click aquí](P1/5.%20Usability%20Review%20y%20briefing/Usability-review.xlsx)
+- Valoración final (numérica): 67 puntos
+En general, el sitio web tiene algunos fallos en la experiencia de navegación. También presenta problemas de usabilidad que afectan a la efectividad y satisfacción de los usuarios. Algunos de estos problemas son: falta de adaptación al tamaño de pantalla, diseño poco atractivo y confuso, navegación poco intuitiva. Estos problemas podrían solucionarse aplicando los principios y las mejores prácticas del diseño UX/UI. Además, los contenidos multimedia no están adaptados para la navegación en dispositivos de escritorio.
 
 
 ## Paso 2. UX Design
