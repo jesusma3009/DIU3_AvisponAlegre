@@ -1,7 +1,7 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... )
 
-Grupo: DIU1_01AABB.  Curso: 2022/23
+Grupo: DIU1_01A1.  Curso: 2022/23
 Updated: 11/1/2023
 
 Proyecto:
@@ -9,8 +9,7 @@ Rediseño de la web artesania nazarie
 
 Descripción:
 
-Nuestro proyecto consiste en mejorar la página web de turismo de nuestro taller de artesanía nazarí, con el objetivo de ofrecer una experiencia completa a nuestros visitantes. Para ello, nuestra propuesta consiste en implementar un catálogo más detallado de nuestros productos e información de nuestros artesanos junto con métodos para contactar con estos, con el fin de conseguir la asistencia deseada y fomentar la conexión entre
-nuestros visitantes y nuestro trabajo artesanal intetando alcanzar un mayor grado de satisfacción de estos y ampliar el número de usuarios cuyas necesidades se abarcan.
+Nuestro proyecto consiste en mejorar la página web de turismo de nuestro taller de artesanía nazarí, con el objetivo de ofrecer una experiencia completa a nuestros visitantes. Para ello, nuestra propuesta consiste en implementar un catálogo más detallado de nuestros productos e información de nuestros artesanos junto con métodos para contactar con estos, con el fin de conseguir la asistencia deseada y fomentar la conexión entre nuestros visitantes y nuestro trabajo artesanal intetando alcanzar un mayor grado de satisfacción de estos y ampliar el número de usuarios cuyas necesidades se abarcan.
 
 ![](P3/artesaniaLogo.png)
 
@@ -67,44 +66,35 @@ En general, el sitio web tiene algunos fallos en la experiencia de navegación. 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-[Diagrama POV](P2)
- Interesante | Críticas
-| ------------- | -------
-  Preguntas | Nuevas ideas
+[Diagrama POV](P2/1.%20Ideación:%20POV%20e%20Insights/Point%20Of%20View.pdf)
 
 
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Hemos pensado en realizar una conexión directa con artesanos locales, información detallada sobre productos, reservas fáciles y seguras, reseñas y comentarios verificados para generar confianza.
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor
+![](P2/2.%20Propuesta%20de%20valor%20(ScopeCanvas)/Scope%20Canvas%20(Community)-1.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis
 -----
-
->>> Definir "User Map" y "Task Flow" ...
-
+![](P2/3.%20Análisis%20de%20Tareas/TASK%20ANALYSIS-1.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling
 ----
 
-
->>> Identificar términos para diálogo con usuario
-
-Término | Significado
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![](P2/4.%20Mapa%20de%20sitio%20y%20etiquetado/Labelling-1.png)
+![](P2/4.%20Mapa%20de%20sitio%20y%20etiquetado/Labelling-2.png)
+![](P2/4.%20Mapa%20de%20sitio%20y%20etiquetado/Labelling-1.png)
+![](P2/4.%20Mapa%20de%20sitio%20y%20etiquetado/sitemap-1.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+![](P2/5.%20Bocetos/P2_bocetos1.png)
+![](P2/5.%20Bocetos/P2_bocetos2.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
