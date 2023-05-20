@@ -135,13 +135,20 @@ Hemos pensado en realizar una conexión directa con artesanos locales, informaci
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+### Página de inicio
 ![](P3/4.%20Layout%20HI-FI/home.png)
+### Página Sobre Nosotros
 ![](P3/4.%20Layout%20HI-FI/SobreNosotros-NuestrosArtesanos.png)
+### Página Sobre Nosotros con tarjeta superpuesta
 ![](P3/4.%20Layout%20HI-FI/tarjetaArtesanoSuperpuesta.png)
+### Página de un artesano
 ![](P3/4.%20Layout%20HI-FI/[nombreArtesano].png)
+### Página de la tienda
 ![](P3/4.%20Layout%20HI-FI/tienda.png)
-![](P3/4.%20Layout%20HI-FI/[producto].png)
+### Página de la tienda con tarjeta de producto superpuesta
 ![](P3/4.%20Layout%20HI-FI/TarjetaProductoSuperpuesta.png)
+### Página de un producto
+![](P3/4.%20Layout%20HI-FI/[producto].png)
 
 También nuestro diseño es responsive, puedes encontrar más imagenes [aquí](P3/4.%20Layout%20HI-FI/)
 ## Paso 4. Evaluación
