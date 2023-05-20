@@ -138,9 +138,9 @@ Hemos pensado en realizar una conexión directa con artesanos locales, informaci
 ----
 ### Página de inicio
 ![](P3/4.%20Layout%20HI-FI/home.png)
-### Página Sobre Nosotros
+### Página Sobre Nosotros->Nuestros Artesanos
 ![](P3/4.%20Layout%20HI-FI/SobreNosotros-NuestrosArtesanos.png)
-### Página Sobre Nosotros con tarjeta superpuesta
+### Página Sobre Nosotros->Nuestros Artesanos con tarjeta superpuesta
 ![](P3/4.%20Layout%20HI-FI/tarjetaArtesanoSuperpuesta.png)
 ### Página de un artesano
 ![](P3/4.%20Layout%20HI-FI/[nombreArtesano].png)
