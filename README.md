@@ -121,6 +121,7 @@ Hemos pensado en realizar una conexión directa con artesanos locales, informaci
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+![](P3/1.%20Moodboard/Moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
