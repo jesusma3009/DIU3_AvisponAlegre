@@ -18,8 +18,23 @@ Miembros
  * Rafael Calvo Córdoba
 
 -----
-
-
+## Indice
+- [DIU23](#diu23)
+- [Proceso de Diseño](#proceso-de-diseño)
+  * [Paso 1. UX Desk Research & Analisis](#paso-1-ux-desk-research-analisis)
+    + [Jorge](#jorge)
+    + [María](#maría)
+    + [Jorge](#jorge-1)
+    + [María](#maría-1)
+  * [Paso 2. UX Design](#paso-2-ux-design)
+  * [Paso 3. Mi UX-Case Study (diseño)](#paso-3-mi-ux-case-study-diseño)
+    + [Página de inicio](#página-de-inicio)
+    + [Página Sobre Nosotros->Nuestros Artesanos](#página-sobre-nosotros-nuestros-artesanos)
+    + [Página Sobre Nosotros->Nuestros Artesanos con tarjeta superpuesta](#página-sobre-nosotros-nuestros-artesanos-con-tarjeta-superpuesta)
+    + [Página de un artesano](#página-de-un-artesano)
+    + [Página de la tienda](#página-de-la-tienda)
+    + [Página de la tienda con tarjeta de producto superpuesta](#página-de-la-tienda-con-tarjeta-de-producto-superpuesta)
+    + [Página de un producto](#página-de-un-producto)
 
 # Proceso de Diseño
 
