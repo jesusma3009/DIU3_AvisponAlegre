@@ -123,37 +123,27 @@ Hemos pensado en realizar una conexión directa con artesanos locales, informaci
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard)
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
-
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page
+![](P3/2.%20Landing%20Page/Landing%20page.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
->>> Estudio de Guidelines y Patrones IU a usar
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+![](P3/3.%20Guidelines/Patrones%20de%20Diseño%20y%20Guidelines.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+![](P3/4.%20Layout%20HI-FI/home.png)
+![](P3/4.%20Layout%20HI-FI/SobreNosotros-NuestrosArtesanos.png)
+![](P3/4.%20Layout%20HI-FI/tarjetaArtesanoSuperpuesta.png)
+![](P3/4.%20Layout%20HI-FI/[nombreArtesano].png)
+![](P3/4.%20Layout%20HI-FI/tienda.png)
+![](P3/4.%20Layout%20HI-FI/[producto].png)
+![](P3/4.%20Layout%20HI-FI/TarjetaProductoSuperpuesta.png)
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
-
+También nuestro diseño es responsive, puedes encontrar más imagenes [aquí](P3/4.%20Layout%20HI-FI/)
 ## Paso 4. Evaluación
 
 
