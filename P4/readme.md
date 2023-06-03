@@ -27,7 +27,7 @@ Respecto al género, ocupación, experiencia y plataforma hemos adaptado el resu
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-![](P4/imagen_cuestionario-SUS.png)
+![](imagen_cuestionario-SUS.png)
 
 
 
