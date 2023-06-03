@@ -181,13 +181,11 @@ Link a la [web](https://github.com/anlop31/Anig/tree/master/P3).
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Para las personas hemos usado los datos proporcionados en el guión de la práctica.
+Respecto al género, ocupación, experiencia y plataforma hemos adaptado el resultado de los dados a familiares que se ajustaba a los resultados.
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
 
-
-|#id. usuario|Sexo/edad|Ocupación|Rol/Perfil(goals)|Experiencia internet|Plataforma|Conocimiento/
-Experiencia con
- Aplicacion/Web|
+|#id. usuario|Sexo/edad|Ocupación|Rol/Perfil(goals)|Experiencia internet|Plataforma|Conocimiento|
 |:----|:----|:----|:----|:----|:----|:----|
 |Cristóbal(1)|H/24|Estudiante|Sociable/Trabajador/Alegre|Avanzado|Mac|Alta|
 |Manoli(2)|M/72|Jubilada|Organizada/Amante de la lectura|Baja|Windows|Baja|
