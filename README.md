@@ -208,25 +208,44 @@ En el caso B nos encontramos también unas puntuaciones similares aunque algo m�
 
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+## Paso 5. Evaluación mediante Eye Tracking 
 
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
->>>> ----
+![Método UX](img/eye-tracking.png))  5.a Eye Tracking method 
 
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido
 
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG)
->>> 5.b) Uso de simuladores de accesibilidad
+5.a) Diseño del experimento 
+----
+Para el experimento vamos a usar Gaze Recorder, la herramienta recomendada en el guion de prácticas, para ello, vamos a analizar 4 páginas de nuestro sitio:
+1-Home
+2-NombreArtesano
+3-Producto
+4-Tienda
+Con respecto a los usuarios, hemos conseguido que los usuarios reclutados en la práctica 4
+### Objetivos establecidos para el test a los usuarios: 
 
->>> (uso de tabla de datos, indicar herramientas usadas)
+- Cristóbal: Echar un vistazo genérico al Home.
+- Mari Carmen: Intentar contactar con un Artesano.
+- Manoli: Echar un vistazo a la página relativa a un producto e intentar Añadirlo al carrito.
+- Juan: Añadir al carrito algún producto de la Tienda.
 
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+5.b) Resultados y valoración 
+![](P5/artesano_eye.png)
+![](P5/artesano_result.png)
+![](P5/home_eye.png)
+![](P5/home_result.png)
+![](P5/producto_eye.png)
+![](P5/producto_result.png)
+![](P5/tienda_eye.png)
+![](P5/tienda_result.png)
+
+
+En conclusión, como hemos podido observar en las pruebas realizadas con eye tracking, el resultado ha sido positivo, nuestros usuarios han demostrado que pueden interactuar de manera positiva con nuestra interfaz. Hemos podido confirmar que los elementos están distribuidos correctamente y que la web no tiene distracciones innecesarias.
+
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos
-
+Gracias al desarrollo de diseño de la metodología UX hemos aprendido la necesidad de enfocarnos en la experiencia del usuario. En general, la mayoría de los resultados obtenidos en los test ha sido positiva y hemos conseguido crear una solución que mejora la experiencia del usuario frente a la de https://artesanianazari.es. 
+Si bien es cierto que algunas nos ha llevado más tiempo del que disponemos o el que nos habría gustado poder dedicar, nos han resultado unas prácticas entretenidas en las que hemos aprendido bastante
