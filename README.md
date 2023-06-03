@@ -230,14 +230,14 @@ Con respecto a los usuarios, hemos conseguido que los usuarios reclutados en la 
 - Juan: Añadir al carrito algún producto de la Tienda.
 
 5.b) Resultados y valoración 
-![](P5/artesano_eye.png)
-![](P5/artesano_result.png)
-![](P5/home_eye.png)
-![](P5/home_result.png)
-![](P5/producto_eye.png)
-![](P5/producto_result.png)
-![](P5/tienda_eye.png)
-![](P5/tienda_result.png)
+![](P5/artesano_eye.png)\
+![](P5/artesano_result.png)\
+![](P5/home_eye.png)\
+![](P5/home_result.png)\
+![](P5/producto_eye.png)\
+![](P5/producto_result.png)\
+![](P5/tienda_eye.png)\
+![](P5/tienda_result.png)\
 
 
 En conclusión, como hemos podido observar en las pruebas realizadas con eye tracking, el resultado ha sido positivo, nuestros usuarios han demostrado que pueden interactuar de manera positiva con nuestra interfaz. Hemos podido confirmar que los elementos están distribuidos correctamente y que la web no tiene distracciones innecesarias.
